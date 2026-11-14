@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/Diller-23_BCP--47-teal" alt="Diller">
 </p>
 
+<p align="center">
+  <a href="https://app.ona.com/#https://github.com/erhanurgun/EXT-chrome-laracasts-translator">
+    <img src="https://ona.com/build-with-ona.svg" alt="Build with Ona">
+  </a>
+</p>
+
 ---
 
 ## Ekran Görüntüleri
